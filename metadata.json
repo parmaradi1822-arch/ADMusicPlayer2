@@ -1,0 +1,6 @@
+{
+  "name": "AD Music Player",
+  "description": "Premium dark music player with custom equalizer, audio editor, lofi creator, sleep timer, and app lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

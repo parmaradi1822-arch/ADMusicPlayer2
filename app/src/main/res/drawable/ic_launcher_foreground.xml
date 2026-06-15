@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Curved Headband -->
+    <path
+        android:pathData="M 36 58 A 18 18 0 0 1 72 58"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="#00000000" />
+    <!-- Left Cup -->
+    <path
+        android:pathData="M 30 52 C 30 48, 38 48, 38 52 L 38 66 C 38 70, 30 70, 30 66 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Right Cup -->
+    <path
+        android:pathData="M 70 52 C 70 48, 78 48, 78 52 L 78 66 C 78 70, 70 70, 70 66 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Glowing musical pulse wave inside ear pieces -->
+    <path
+        android:pathData="M 44 62 L 48 56 L 52 68 L 56 50 L 60 70 L 64 58"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:strokeColor="#1AD1D9"
+        android:fillColor="#00000000" />
+</vector>
